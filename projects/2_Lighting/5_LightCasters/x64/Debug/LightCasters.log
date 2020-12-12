@@ -1,0 +1,12 @@
+﻿  0.4_main.cpp
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\shader.h(51,41): warning C4101: 'e': unreferenced local variable
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(155,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(236,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(237,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(241,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(242,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(244,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(245,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\0.4_main.cpp(251,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LightCasters.vcxproj -> C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\5_LightCasters\x64\Debug\LightCasters.exe

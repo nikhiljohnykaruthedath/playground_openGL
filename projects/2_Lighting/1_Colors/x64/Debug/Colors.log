@@ -1,0 +1,13 @@
+﻿  0.1_main.cpp
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\shader.h(51,41): warning C4101: 'e': unreferenced local variable
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(139,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(208,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(209,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(213,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(214,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(216,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(217,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\0.1_main.cpp(223,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Colors.vcxproj -> C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\1_Colors\x64\Debug\Colors.exe

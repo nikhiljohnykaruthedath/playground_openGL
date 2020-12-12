@@ -1,0 +1,12 @@
+﻿  3_exercise.cpp
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\shader.h(51,41): warning C4101: 'e': unreferenced local variable
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(136,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(205,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(206,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(210,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(211,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(213,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(214,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\3_exercise.cpp(220,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  BasicLighting.vcxproj -> C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\2_BasicLighting\x64\Debug\BasicLighting.exe

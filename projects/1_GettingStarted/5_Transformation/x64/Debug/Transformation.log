@@ -1,0 +1,6 @@
+﻿  2_exercise.cpp
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\1_GettingStarted\5_Transformation\shader.h(51,41): warning C4101: 'e': unreferenced local variable
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\1_GettingStarted\5_Transformation\2_exercise.cpp(145,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Transformation.vcxproj -> C:\Users\njohn\Desktop\Playground_OpenGL\projects\1_GettingStarted\5_Transformation\x64\Debug\Transformation.exe

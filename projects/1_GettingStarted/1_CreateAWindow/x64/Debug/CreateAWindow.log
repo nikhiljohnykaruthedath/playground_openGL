@@ -1,0 +1,4 @@
+﻿  0.1_main.cpp
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CreateAWindow.vcxproj -> C:\Users\njohn\Desktop\Playground_OpenGL\projects\1_GettingStarted\1_CreateAWindow\x64\Debug\CreateAWindow.exe

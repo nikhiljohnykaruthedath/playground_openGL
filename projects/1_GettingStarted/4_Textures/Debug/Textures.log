@@ -1,0 +1,17 @@
+﻿  glad.c
+  texture.cpp
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\Textures\headers\shader.h(56,41): warning C4101: 'e': unreferenced local variable
+texture.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+texture.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+texture.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+texture.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\Textures\\..\..\libs\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\Textures\Debug\Textures.exe : fatal error LNK1120: 12 unresolved externals

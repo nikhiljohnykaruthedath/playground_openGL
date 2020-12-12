@@ -1,0 +1,27 @@
+﻿  0.1_main.cpp
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\shader.h(51,41): warning C4101: 'e': unreferenced local variable
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(135,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(150,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(151,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(152,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(222,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(223,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(227,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(228,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(230,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(231,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\0.1_main.cpp(237,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Materials.vcxproj -> C:\Users\njohn\Desktop\Playground_OpenGL\projects\2_Lighting\3_Materials\x64\Debug\Materials.exe
